@@ -1,3 +1,4 @@
+#COOK133C
 def main_func():
     a = int(input())
     if a%4 == 0:
