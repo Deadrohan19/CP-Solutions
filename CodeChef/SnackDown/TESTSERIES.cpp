@@ -12,6 +12,7 @@ int main(){
     #endif
         deadman
     
+    //initialization
     int t;
     cin>>t;
 
